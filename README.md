@@ -8,5 +8,6 @@ Este repositório será utilizado para armazenar os certificados que adquiro con
     
 Atualmente, estou estudando as seguintes tecnologias:
 
-  - React
-  - Java, ao finalizar pretendo estudar Kotlin que é uma área de interesse.
+  - Node
+  - Typescript
+  - Golang
